@@ -1,0 +1,27 @@
+return {
+    "williamboman/mason.nvim",
+    opts = {
+        ensure_installed = {
+            "actionlint",
+            "ansible-language-server",
+            "ansible-lint",
+            "antlers-language-server",
+            "bash-language-server",
+            "blade-formatter",
+            "dot-language-server",
+            "emmet-ls",
+            "eslint_d",
+            "html-lsp",
+            "intelephense",
+            "nginx-language-server",
+            "php-debug-adapter",
+            "phpstan",
+            "pint",
+            "prettierd",
+            "shellcheck",
+            "shfmt",
+            "stylua",
+            "tailwindcss-language-server",
+        },
+    },
+}
